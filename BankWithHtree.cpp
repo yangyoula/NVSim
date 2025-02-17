@@ -1,3 +1,4 @@
+#include "typedef.h"
 /*******************************************************************************
 * Copyright (c) 2012-2013, The Microsystems Design Labratory (MDL)
 * Department of Computer Science and Engineering, The Pennsylvania State University
